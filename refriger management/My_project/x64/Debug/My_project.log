@@ -1,0 +1,14 @@
+﻿빌드 시작: 2017-11-28 오후 4:22:32
+     1>2 노드의 "D:\Visual Studio 2013\Projects\My_project\My_project\My_project.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\CL.exe /c /Zi /nologo /W3 /WX- /sdl /Od /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt project.cpp
+         건너뛰고 있습니다... (관련된 변경 내용 없음)
+         project.cpp
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"D:\Visual Studio 2013\Projects\My_project\x64\Debug\My_project.exe" /INCREMENTAL /NOLOGO libmysql.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\Visual Studio 2013\Projects\My_project\x64\Debug\My_project.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\Visual Studio 2013\Projects\My_project\x64\Debug\My_project.lib" /MACHINE:X64 x64\Debug\project.obj
+         My_project.vcxproj -> D:\Visual Studio 2013\Projects\My_project\x64\Debug\My_project.exe
+     1>"D:\Visual Studio 2013\Projects\My_project\My_project\My_project.vcxproj" 프로젝트를 빌드했습니다(Build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:01.76

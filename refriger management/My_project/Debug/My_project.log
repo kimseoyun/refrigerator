@@ -1,0 +1,16 @@
+﻿빌드 시작: 2017-09-28 오후 2:50:01
+     1>2 노드의 "D:\Visual Studio 2013\Projects\My_project\My_project\My_project.vcxproj" 프로젝트(Build 대상)입니다.
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _MBCS /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt insert_test.cpp main.cpp test2.cpp
+         test2.cpp
+     1>d:\visual studio 2013\projects\my_project\my_project\test2.cpp(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'my_global.h': No such file or directory
+         main.cpp
+     1>d:\visual studio 2013\projects\my_project\my_project\main.cpp(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'mysql.h': No such file or directory
+         insert_test.cpp
+     1>d:\visual studio 2013\projects\my_project\my_project\insert_test.cpp(6): fatal error C1083: 포함 파일을 열 수 없습니다. 'my_global.h': No such file or directory
+         코드를 생성하고 있습니다...
+     1>"D:\Visual Studio 2013\Projects\My_project\My_project\My_project.vcxproj" 프로젝트를 빌드했습니다(Build 대상). - 실패
+
+빌드하지 못했습니다.
+
+경과 시간: 00:00:00.72
